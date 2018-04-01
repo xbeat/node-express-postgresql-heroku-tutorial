@@ -57,7 +57,7 @@ Install required modules:
 
 Start application locally: 
 
-	$ foreman start
+	$ heroku start
 
 Access app at: http://localhost:5000
 
